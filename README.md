@@ -2,6 +2,9 @@
 
 This repository contains code to create an RFM segmentation by connecting to a PostgreSQL database, processing the data, creating the scores and finally using unsupervised machine learning models for exploring the RFM segmentation according to the clusters created. **This is the first version of the readme file, Some files and folder names might be different**.
 
+## Database
+This data was extracted from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), under the license CC BY-NC-SA 4.0.
+
 ## Getting Started
 
 To get started with this project, you will need to have access to a PostgreSQL database containing your customer data. You will also need to install the required dependencies listed in the `requirements.txt` file.
